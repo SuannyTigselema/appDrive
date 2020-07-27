@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnu_prioridad"
+        android:icon="@drawable/prioridad"
+        android:title="Prioridad"/>
+    <item
+        android:id="@+id/mnu_compartir"
+        android:icon="@drawable/compartir"
+        android:title="Compartir"/>
+    <item
+        android:id="@+id/mnu_usuarios"
+        android:icon="@drawable/users"
+        android:title="Usuarios"/>
+    <item
+        android:id="@+id/mnu_archivos"
+        android:icon="@drawable/archivos"
+        android:title="Archivos"/>
+</menu>
